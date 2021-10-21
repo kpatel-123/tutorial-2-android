@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aboutus</string>
+    <string name="First_Name">Khushali</string>
+    <string name="Last_Name">Lila</string>
+    <string name="Email">klila@rku.ac.in</string>
+    <string name="Password">123456</string>
+    <string name="Gender">Female</string>
+    <string name="City">Gondal</string>
+    <string name="Enrollment_no">20SOECA21019</string>
+</resources>
